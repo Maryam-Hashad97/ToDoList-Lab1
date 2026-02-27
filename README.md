@@ -1,4 +1,4 @@
-# 📱 Mobile App Development Labs
+#  Mobile App Development Labs
 **Course:** Mobile Application Development (React Native)  
 **University:** Helwan University – FEHU  
 **Student:** Maryam Ahmed Ahmed Hashad
@@ -7,7 +7,7 @@ This repository contains all mobile application.
 Each lab includes an Expo Snack link and a short description.
 ---
 
-## 📌 Labs List
+##  Labs List
 
 | Lab | Title | Expo Snack |
 |----|------|------------|
