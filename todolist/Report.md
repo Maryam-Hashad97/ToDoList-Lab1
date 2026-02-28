@@ -1,4 +1,4 @@
-#  App 01 – To-Do List App
+#  App 01 â€“ To-Do List App
 
 ##  Overview
 
@@ -24,21 +24,21 @@ This version features a powerful **Electric Blue + Hot Pink** color system that 
 
 ---
 
-##  Design System – Electric Neon Theme
+##  Design System â€“ Electric Neon Theme
 
-Primary Background: Deep Black-Blue – `#0B0F1A`
-Card Background: Dark Navy – `#141927`
-Primary Accent: Electric Blue – `#00E5FF`
-Action Button: Hot Pink – `#FF0080`
-Delete Accent: Bright Red – `#FF4D4D`
-Completed Text: Muted Gray – `#6B7280`
-Primary Text: Pure White – `#FFFFFF`
+Primary Background: Deep Black-Blue â€“ `#0B0F1A`
+Card Background: Dark Navy â€“ `#141927`
+Primary Accent: Electric Blue â€“ `#00E5FF`
+Action Button: Hot Pink â€“ `#FF0080`
+Delete Accent: Bright Red â€“ `#FF4D4D`
+Completed Text: Muted Gray â€“ `#6B7280`
+Primary Text: Pure White â€“ `#FFFFFF`
 
 The theme focuses on:
-• High contrast
-• Strong visibility
-• Modern tech aesthetic
-• Clean task hierarchy
+â€¢ High contrast
+â€¢ Strong visibility
+â€¢ Modern tech aesthetic
+â€¢ Clean task hierarchy
 
 ---
 
@@ -64,7 +64,7 @@ https://snack.expo.dev/@maryam_hashad/lab1todolist
 ##  Project Structure
 
 todolist/
-¦
+Â¦
 +-- screenshots/
 +-- src/
 +-- video/
@@ -75,7 +75,7 @@ todolist/
 ##  Academic Information
 
 Course: Mobile Application Development
-University: Helwan University – Faculty of Engineering (FEHU)
+University: Helwan University â€“ Faculty of Engineering (FEHU)
 Student: Maryam Ahmed Ahmed Hashad
 
 ---
