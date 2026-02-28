@@ -26,8 +26,8 @@ This version features a powerful **Electric Blue + Hot Pink** color system that 
 
 ##  Design System – Electric Neon Theme
 
-Primary Background: Deep Black-Blue – `#0B0F1A`
-Card Background: Dark Navy – `#141927`
+ *  Primary Background: Deep Black-Blue – `#0B0F1A`
+ *   Card Background: Dark Navy – `#141927`
 Primary Accent: Electric Blue – `#00E5FF`
 Action Button: Hot Pink – `#FF0080`
 Delete Accent: Bright Red – `#FF4D4D`
